@@ -7,14 +7,14 @@
 </a>
 
 <p>
-  <a href="https://web-ara.com"><img src="https://img.shields.io/badge/WebAra-web--ara.com-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebAra website" /></a>
-  <a href="mailto:vahab.nokhbeh.z@gmail.com"><img src="https://img.shields.io/badge/Email-vahab.nokhbeh.z%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email" /></a>
-  <a href="mailto:web.ara010@gmail.com"><img src="https://img.shields.io/badge/WebAra-web.ara010%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="WebAra email" /></a>
+  <a href="https://web-ara.com"><img src="assets/webara-website.svg" alt="WebAra website" /></a>
+  <a href="mailto:vahab.nokhbeh.z@gmail.com"><img src="assets/personal-email.svg" alt="Personal email" /></a>
+  <a href="mailto:web.ara010@gmail.com"><img src="assets/webara-email.svg" alt="WebAra email" /></a>
 </p>
 
-<img src="https://img.shields.io/badge/Location-Hamedan%2C%20Iran-64748B?style=flat-square&logo=googlemaps&logoColor=white" alt="Hamedan, Iran" />
-<img src="https://img.shields.io/badge/Experience-7%2B%20years-22C55E?style=flat-square" alt="7+ years of experience" />
-<img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Relocation-8B5CF6?style=flat-square" alt="Open to remote work and relocation" />
+<img src="assets/hamedan-iran.svg" alt="Hamedan, Iran" />
+<img src="assets/7-years-of-experience.svg" alt="7+ years of experience" />
+<img src="assets/open-to-remote-work-and-relocation.svg" alt="Open to remote work and relocation" />
 
 </div>
 
@@ -113,7 +113,7 @@ Content platform with flower profiles (scientific name and origin), care guides,
 **Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=10" alt="Databases" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48" />
+  <img src="assets/sql-server.svg" alt="SQL Server" height="48" />
 </p>
 
 **DevOps**
@@ -123,10 +123,10 @@ Content platform with flower profiles (scientific name and origin), care guides,
 
 **AI & Bots**
 <p>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/AI%20Agents-0EA5E9?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI agents" />
-  <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram bots" />
+  <img src="assets/openai-api.svg" alt="OpenAI API" />
+  <img src="assets/langchain.svg" alt="LangChain" />
+  <img src="assets/ai-agents.svg" alt="AI agents" />
+  <img src="assets/telegram-bots.svg" alt="Telegram bots" />
 </p>
 
 **Tools**
@@ -141,6 +141,6 @@ Content platform with flower profiles (scientific name and origin), care guides,
 I'm always happy to talk about new projects, collaborations and full-time opportunities.
 
 <p>
-  <a href="https://web-ara.com"><img src="https://img.shields.io/badge/Visit-web--ara.com-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" alt="web-ara.com" /></a>
-  <a href="mailto:vahab.nokhbeh.z@gmail.com"><img src="https://img.shields.io/badge/Email%20me-vahab.nokhbeh.z%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://web-ara.com"><img src="assets/web-ara-com.svg" alt="web-ara.com" /></a>
+  <a href="mailto:vahab.nokhbeh.z@gmail.com"><img src="assets/email.svg" alt="Email" /></a>
 </p>
