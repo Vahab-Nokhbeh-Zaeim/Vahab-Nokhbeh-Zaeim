@@ -8,6 +8,7 @@
 
 <p>
   <a href="https://web-ara.com"><img src="assets/webara-website.svg" alt="WebAra website" /></a>
+  <a href="https://www.linkedin.com/in/vahab-nokhbeh-zaeim-12558944a/"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
   <a href="mailto:vahab.nokhbeh.z@gmail.com"><img src="assets/personal-email.svg" alt="Personal email" /></a>
   <a href="mailto:web.ara010@gmail.com"><img src="assets/webara-email.svg" alt="WebAra email" /></a>
 </p>
@@ -142,5 +143,6 @@ I'm always happy to talk about new projects, collaborations and full-time opport
 
 <p>
   <a href="https://web-ara.com"><img src="assets/web-ara-com.svg" alt="web-ara.com" /></a>
+  <a href="https://www.linkedin.com/in/vahab-nokhbeh-zaeim-12558944a/"><img src="assets/linkedin-connect.svg" alt="LinkedIn" /></a>
   <a href="mailto:vahab.nokhbeh.z@gmail.com"><img src="assets/email.svg" alt="Email" /></a>
 </p>
