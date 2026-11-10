@@ -83,6 +83,16 @@ Content platform with flower profiles (scientific name and origin), care guides,
 
 ---
 
+## Open-Source Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**telegram-shop-bot**](https://github.com/Vahab-Nokhbeh-Zaeim/telegram-shop-bot) | Telegram shop bot with product catalog, inline cart, checkout and admin order notifications | `Python` |
+| [**ai-support-chatbot**](https://github.com/Vahab-Nokhbeh-Zaeim/ai-support-chatbot) | Customer-support chatbot API with retrieval-augmented generation (RAG) | `FastAPI` `LLM` `RAG` |
+| [**shop-api-dotnet**](https://github.com/Vahab-Nokhbeh-Zaeim/shop-api-dotnet) | Online store REST API with orders and stock validation | `C#` `ASP.NET Core` `.NET 10` |
+
+---
+
 ## What I Build
 
 | | |
